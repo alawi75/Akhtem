@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"name": "محمود خليل الحصري",
+		"url": "https://everyayah.com/data/Husary_64kbps/{0:000}{1:000}.mp3",
+		"rank": 1
+	},
+		{
+		"id": 2,
+		"name": "عبدالباسط عبدالصمد",
+		"url": "https://everyayah.com/data/Abdul_Basit_Murattal_64kbps/{0:000}{1:000}.mp3",
+		"rank": 2
+	},
+	{
+		"id": 3,
+		"name": "محمد صدِّيق المنشاوي",
+		"url": "https://everyayah.com/data/Menshawi_16kbps/{0:000}{1:000}.mp3",
+		"rank": 3
+	},
+	{
+		"id": 4,
+		"name": "أيمن سويد",
+		"url": "https://everyayah.com/data/Ayman_Sowaid_64kbps/{0:000}{1:000}.mp3",
+		"rank": 4
+	},
+	{
+		"id": 5,
+		"name": "مشاري العفاسي",
+		"url": "https://everyayah.com/data/Ayman_Sowaid_64kbps/{0:000}{1:000}.mp3",
+		"rank": 5
+	},
+]
